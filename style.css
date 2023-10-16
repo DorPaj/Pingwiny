@@ -1,0 +1,11 @@
+body {
+	white-space: nowrap;
+}
+
+img {
+	display: inline-block;
+}
+
+#pierwszy {
+	position: fixed;
+}
