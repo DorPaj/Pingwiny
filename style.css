@@ -12,3 +12,7 @@ img {
 	top: 400px;
 	z-index: 100;
 }
+
+#klon {
+	opacity: 0;
+}
